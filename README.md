@@ -1,4 +1,4 @@
-# React Showcase by Isaak M
+# React Showcase by Isaak M.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
